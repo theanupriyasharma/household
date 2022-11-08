@@ -1,10 +1,10 @@
 # Household Information
 
-### We use maven as a build tool. Hence, the following command will generate the jar in target folder
+### We use maven as a build tool.
 
-### Install maven by following instructions here
-https://mkyong.com/maven/how-to-install-maven-in-windows/
+### Install maven by following [instructions here](https://mkyong.com/maven/how-to-install-maven-in-windows/)
 
+### The following command will generate the jar in target folder
 
 `mvn clean package`
 
